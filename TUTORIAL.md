@@ -24,5 +24,6 @@ En este tutorial aprenderá a
 0. [Revisar Pet-Clinic, el proyecto a actualizar](docs/0.proyecto.md)
 1. [Verificar los requisitos para hacer la actualización](docs/1.requisitos.md)
 2. [Actualizar el proyecto](docs/2.migracion.md)
-3. [Probar el resultado de la actualización](docs/3.prueba-regresion.md)
-4. [Resumen]
+3. [Corregir errores detectados en la regresión](docs/3.correccion.md)
+4. [Refactorizar el proyecto](docs/4.refactorizacion.md)
+4. [Resumen](docs/X.final.md)
