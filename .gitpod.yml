@@ -6,7 +6,7 @@
 
 tasks:
   - init: |
-      sdk install java 8.0.432.fx-zulu  < /dev/null
+      sdk install java 8.0.452.fx-zulu  < /dev/null
       ./mvnw install -DskipTests=false
 
 
