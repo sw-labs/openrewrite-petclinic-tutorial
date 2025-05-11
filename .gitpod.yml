@@ -7,7 +7,24 @@
 tasks:
   - init: |
       sdk install java 8.0.452.fx-zulu  < /dev/null
+      sdk install java 24-zulu < /dev/null
+      sdk use java 8.0.452.fx-zulu
       ./mvnw install -DskipTests=false
 
 
-
+# -- VSCode Settings
+# {
+#     "java.jdt.ls.java.home": "/home/gitpod/.sdkman/candidates/java/current",
+#     "java.configuration.runtimes": [ 
+#         {
+#            "name": "JavaSE-1.8",
+#            "path": "/home/gitpod/.sdkman/candidates/java/8.0.452.fx-zulu",
+#            "default": false
+#         },
+#         {
+#             "name": "JavaSE-21",
+#             "path": "/home/gitpod/.sdkman/candidates/java/current",
+#             "default": true
+#         }
+#     ],
+# }
