@@ -1,6 +1,6 @@
-# Migrando una aplicación de Spring Boot 1.x a 2.x
+# Migrando una aplicación de Spring Boot 1.x a 3.x
 
-> Este tutorial utilizará OpenRewrite para migrar una aplicación de Spring Boot 1.x a Spring Boot 2.x
+> Este tutorial utilizará OpenRewrite para migrar una aplicación de Spring Boot 1.x a Spring Boot 3.x
 
 ---
 
